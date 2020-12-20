@@ -43,11 +43,11 @@ Next, we need to generate protein sequences's vocabulary by `./pre-training/gene
 ### Cite:
 If you use the code, please cite this paper:
 ```bash
-@inproceedings{zhang2019ernie,
-  title={{ERNIE}: Enhanced Language Representation with Informative Entities},
-  author={Zhang, Zhengyan and Han, Xu and Liu, Zhiyuan and Jiang, Xin and Sun, Maosong and Liu, Qun},
-  booktitle={Proceedings of ACL 2019},
-  year={2019}
+@inproceedings{hu2020bibm,
+  title={Structure Enhanced Protein-Drug Interaction Prediction using Transformer and Graph Embedding},
+  author={Hu, Fan and Hu, Yishen and Zhang, Jianye and Wang, Dongqi and Yin, Peng},
+  booktitle={2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year={2020}
 }
 ```
 
