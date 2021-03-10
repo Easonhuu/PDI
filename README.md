@@ -41,7 +41,7 @@ Next, we need to generate protein sequences's vocabulary by `./pre-training/gene
 - train_df_nums: 11877, valid_df_nums: 1000, core2016_df_nums: 290, casf2013_df_nums: 195, casf2013_df_nums: 73
 
 ### Model architecture
-
+![model](https://github.com/Easonhuu/PDI/blob/master/model.png)
 
 ### Cite:
 If you use the code, please cite this paper:
